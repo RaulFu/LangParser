@@ -8,12 +8,12 @@
    		<stars>10</stars>
    		<description>Talk about a US-Japan war</description>
 	</en>
-<zh>
-	<type>战争</type>
-	<format>光盘</format>
-	<year>2003</year>
-   	<rating>PG</rating>
-  	<stars>10</stars>
-    <description>讲述美日战争</description>
-</zh>
+	<zh>
+		<type>战争</type>
+		<format>光盘</format>
+		<year>2003</year>
+	   	<rating>PG</rating>
+	  	<stars>10</stars>
+	    <description>讲述美日战争</description>
+	</zh>
 </lang>
